@@ -1,1 +1,1 @@
-git+ssh://git@github.com/deepcoder42/mongo-lib.git#egg=mongo-lib
+git+ssh://git@github.com/deepcoder42/mongo-lib.git@4.1.0#egg=mongo-lib
